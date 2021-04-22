@@ -3,7 +3,6 @@
 A form with validators for the fields.
 
 Project creator: Alexander Yershov
-ID: 319140943
 
 The application creates a standard form for future hotel guests that wish to make a booking.
 Every field contains a validator (with the option for more than a single validator) that checks whether
